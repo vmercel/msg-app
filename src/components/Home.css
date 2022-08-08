@@ -1,0 +1,31 @@
+ .Home{
+    fontSize: 20;
+  },
+ .card{
+        backgroundColor: 'white';
+        borderRadius: 16;
+        shadowOpacity: 0.2;
+        shadowRadius: 4;
+        shadowColor: 'black';
+        shadowOffset: {
+            height: 0;
+            width: 0;
+        }
+        elevation: 1;
+        marginVertical: 20;
+    },
+
+.container{
+    alignContent:'center';
+    margin:37
+},
+
+.bigBlue{
+    color: 'blue';
+    fontWeight: 'bold';
+    fontSize: 30;
+  },
+
+.red{
+    color: 'red';
+  }

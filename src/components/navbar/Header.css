@@ -1,0 +1,26 @@
+/* navbar.module.css */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: lightgreen;
+  padding: 1rem;
+  border-radius: 3rem;
+  
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.header_icon {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.title_text {
+  font-size: 22px;
+  font-weight: 600;
+  margin-left: 0.25rem;
+}

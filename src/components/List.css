@@ -1,0 +1,45 @@
+.containerr {
+  padding-top: 30px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  padding: 5px 15px;
+  width: 500px;
+  background-color: "green";
+  border: solid;
+  border-radius:10px; 
+}
+
+.message-list {
+
+  margin-top: 30px;
+  padding: 30 px;
+  width: 500px;
+
+
+}
+
+.message {
+  list-style: none;
+  margin: 10px 0;
+  padding: 10px;
+  background: #eee;
+  display: flex;
+  justify-content: space-between;
+}
+
+.message-id {
+  color: red;
+  margin-right: 20px;
+}
+
+.message-subject {
+  color: blue;
+}
+
+.message-content {
+  margin-left: auto;
+}
